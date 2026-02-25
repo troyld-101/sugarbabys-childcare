@@ -30,7 +30,7 @@ const Contact = () => {
 			<Row>
 				{/* Left Side: Contact Form */}
 				<Col md={6} className="mb-4">
-					<h2 className="fw-bold">Get In Touch</h2>
+					<h2 className="display-6 fw-bold mb-4 text-primary">Get In Touch</h2>
 					<p>Have questions about enrollment? Send us a message.</p>
 
 					{/* Feedback Messages */}
@@ -75,7 +75,7 @@ const Contact = () => {
 
 				{/* Right Side: Map & Info */}
 				<Col md={6}>
-					<h2 className="fw-bold">Visit Us</h2>
+					<h2 className="display-6 fw-bold mb-4 text-primary">Visit Us</h2>
 					<p>
 						<strong>Sugarbaby's Childcare</strong>
 						<br />

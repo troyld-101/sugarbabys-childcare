@@ -1,11 +1,32 @@
 /* src/App.css */
+
 :root {
 	--sugar-primary: #5d5cde;
 	/* Professional Blue */
 	--sugar-secondary: #ff9f43;
 	/* Playful Orange */
-	--sugar-soft-bg: #f8f9fa;
+	--sugar-soft-bg: #f1d6b7;
 	/* Clean Light Gray */
+}
+
+/* Apply a soft background to the entire site */
+body {
+	background-color: var(
+		--sugar-soft-bg
+	); /* This uses that #f8f9fa color you defined */
+}
+
+/* Optional: Ensure the main App container takes up the full height */
+.App {
+	min-height: 100vh;
+}
+
+.App {
+	min-height: 100vh;
+}
+
+html {
+	scroll-behavior: smooth;
 }
 
 /* Customizing the Navbar */
@@ -44,4 +65,16 @@
 	border-left: 5px solid var(--sugar-secondary);
 	padding-left: 20px;
 	text-align: left !important; /* Quoting looks better left-aligned if it has a border */
+}
+.shug1 {
+	border-radius: 2rem !important; /* Soft, child-friendly corners */
+	border: 8px solid white; /* Clean white inner border */
+	outline: 4px solid var(--sugar-secondary); /* Playful brand orange outer frame */
+	outline-offset: -2px;
+	transition: transform 0.3s ease; /* Prepares it for a hover effect */
+}
+
+/* Optional: Adds a slight "lift" when a parent hovers over the image */
+.shug1:hover {
+	transform: translateY(-5px);
 }

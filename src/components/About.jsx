@@ -1,5 +1,5 @@
 import { Container, Row, Col, Image } from "react-bootstrap";
-
+import heroBg from "../pics/Shug1.avif";
 const About = () => {
 	return (
 		<Container className="py-5" id="about">
@@ -7,11 +7,11 @@ const About = () => {
 				{/* Image Column */}
 				<Col md={6} className="mb-4 mb-md-0">
 					<Image
-						src="./src/pics/Shug1.avif"
+						src={heroBg}
 						alt="Sugarbaby's Childcare Facility"
 						rounded
 						fluid
-						shadow
+						className="shug1 shadow-lg"
 					/>
 				</Col>
 

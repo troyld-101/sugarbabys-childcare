@@ -19,7 +19,9 @@ const Staff = () => {
 					<h6 className="text-secondary text-uppercase fw-bold mb-2">
 						Our Professionals
 					</h6>
-					<h2 className="display-6 fw-bold mb-4">The Sugarbaby's Team</h2>
+					<h2 className="display-6 fw-bold mb-4 text-primary">
+						The Sugarbaby's Team
+					</h2>
 					<p className="lead text-muted">
 						The staff of Sugarbaby's Childcare meets all requirements of the
 						Department of Human Services (DHS). Our educators are not just
