@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/troyld-101/sugarbabys-childcare/static/css/main.71ea91d0.css",
-    "main.js": "/troyld-101/sugarbabys-childcare/static/js/main.83fbf2d7.js",
-    "static/media/Shug4.avif": "/troyld-101/sugarbabys-childcare/static/media/Shug4.ed4bd5bf9e0e6f23c1d1.avif",
-    "static/media/Shug1.avif": "/troyld-101/sugarbabys-childcare/static/media/Shug1.460b1751527ea194165b.avif",
-    "index.html": "/troyld-101/sugarbabys-childcare/index.html",
-    "main.71ea91d0.css.map": "/troyld-101/sugarbabys-childcare/static/css/main.71ea91d0.css.map",
-    "main.83fbf2d7.js.map": "/troyld-101/sugarbabys-childcare/static/js/main.83fbf2d7.js.map"
+    "main.css": "/sugarbabys-childcare/static/css/main.71ea91d0.css",
+    "main.js": "/sugarbabys-childcare/static/js/main.5babe132.js",
+    "static/media/Shug4.avif": "/sugarbabys-childcare/static/media/Shug4.ed4bd5bf9e0e6f23c1d1.avif",
+    "static/media/Shug1.avif": "/sugarbabys-childcare/static/media/Shug1.460b1751527ea194165b.avif",
+    "index.html": "/sugarbabys-childcare/index.html",
+    "main.71ea91d0.css.map": "/sugarbabys-childcare/static/css/main.71ea91d0.css.map",
+    "main.5babe132.js.map": "/sugarbabys-childcare/static/js/main.5babe132.js.map"
   },
   "entrypoints": [
     "static/css/main.71ea91d0.css",
-    "static/js/main.83fbf2d7.js"
+    "static/js/main.5babe132.js"
   ]
 }
