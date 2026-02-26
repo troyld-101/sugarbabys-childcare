@@ -79,7 +79,7 @@ const Contact = () => {
 					<p>
 						<strong>Sugarbaby's Childcare</strong>
 						<br />
-						919 W 4th St, Waterloo, IA 50702
+						915 W 4th St, Waterloo, IA 50702
 					</p>
 
 					<div className="ratio ratio-16x9 shadow-sm rounded">
