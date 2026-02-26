@@ -7,7 +7,7 @@ const Footer = () => (
 				<Col md={6}>
 					<h5>Sugarbaby's Childcare</h5>
 					<p>
-						919 W 4th St.
+						915 W 4th St.
 						<br />
 						Waterloo, IA 50702
 						<br />
@@ -19,7 +19,7 @@ const Footer = () => (
 				</Col>
 				<Col md={6} className="text-md-end">
 					<p>© {new Date().getFullYear()} Sugarbaby's Childcare</p>
-					<p>Hours: Mon - Fri: 4:00 AM - 6:00 PM</p>
+					<p>Hours: Mon - Fri: 4:00 AM - 10:00 PM</p>
 				</Col>
 			</Row>
 		</Container>
